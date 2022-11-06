@@ -1,0 +1,2 @@
+# Class Constants
+Constants are like variables except that once they are defined, they cannot be changed. If we need to define some constant data within a class, we need to use class constants. Class constants are case-sensitive and they can be declared inside a class with the const keyword. We can also access a constant outside of a class by using the class_name followed by :: operator with constant name. 
